@@ -11,3 +11,6 @@ What I have:
 # How do I make a forwarder?
 
 Here's a full Youtube guide here: https://youtu.be/S3117EgWT5M
+
+
+Thank you @Thomasluigi07 for helping me!!!
