@@ -12,4 +12,6 @@ What I have:
 
 Here's a full Youtube guide here: https://youtu.be/S3117EgWT5M
 
-Thank you [@Thomasluigi07](https://github.com/Thomasluigi07) for helping me!!!
+
+
+Thank you [Thomasluigi07](https://github.com/Thomasluigi07) for helping me!!!
