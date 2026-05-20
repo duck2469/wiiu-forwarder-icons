@@ -18,4 +18,4 @@ Credits
 
 Thank you [Thomasluigi07](https://github.com/Thomasluigi07) for helping me with these's images/sounds!!!
 
-Note: We don't own these's images credits to the rightful owne
+Note: We don't own these's images/sound, credits to the rightful owner
