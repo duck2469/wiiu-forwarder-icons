@@ -1,17 +1,21 @@
 # wiiu-forwarder-icons
 Icons for custom forwarder for WiiU to VWii boot
 
-What I have:
+What's inside this repo;
 - Genesis
 - Mame
 - N64
 - PS1/PSX
 - Genesis
 
-# How do I make a forwarder?
+# Help/Credit
 
-Here's a full Youtube guide here: https://youtu.be/S3117EgWT5M
+Q: How do I make a forwarder?
 
+A: Here's a full Youtube guide here: https://youtu.be/S3117EgWT5M
 
+Credits
 
-Thank you [Thomasluigi07](https://github.com/Thomasluigi07) for helping me!!!
+Thank you [Thomasluigi07](https://github.com/Thomasluigi07) for helping me with these's images/sounds!!!
+
+Note: We don't own these's images credits to the rightful owne
